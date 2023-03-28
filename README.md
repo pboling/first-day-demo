@@ -2,4 +2,4 @@
 
 First day demo
 
-There is a new potato
+There is not a new potato
