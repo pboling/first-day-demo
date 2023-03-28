@@ -1,3 +1,3 @@
 # first-day-demo
 
-This is a test
+First day demo
